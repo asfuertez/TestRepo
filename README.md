@@ -9,3 +9,6 @@ test repository only
 - experimental-test 02
 
 - master01 - edit1
+- master02 - edit1
+- master02 - edit2
+
