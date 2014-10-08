@@ -12,3 +12,5 @@ test repository only
 - master02 - edit1
 - master02 - edit2
 
+- master02 - rebase test
+
